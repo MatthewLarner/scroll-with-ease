@@ -1,15 +1,15 @@
 {
   "name": "scroll-with-ease",
   "version": "1.0.0",
-  "description": "",
+  "description": "Scroll an element into view with animation time and cubic bezier easing functions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Matt Larner <matt.larner.dev@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "bezier-easing": "^0.4.5",
-    "scroll-to-element": "0.0.2"
+    "scroll-element-into-view": "^1.0.0"
   }
 }
