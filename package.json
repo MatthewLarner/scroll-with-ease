@@ -1,0 +1,15 @@
+{
+  "name": "ease-to-element",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bezier-easing": "^0.4.5",
+    "scroll-to-element": "0.0.2"
+  }
+}
