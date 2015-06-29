@@ -1,6 +1,6 @@
 # scroll-with-ease
 
-Scroll an element into view
+Scroll an element into view with animation time and cubic bezier easing functions.
 
 ## Usage
 
