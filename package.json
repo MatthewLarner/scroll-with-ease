@@ -16,7 +16,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "bezier-easing": "^0.4.5",
+    "bezier-easing": "^1.1.1",
     "scroll-element-into-view": "^1.0.0"
   },
   "keywords": [
