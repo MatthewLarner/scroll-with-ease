@@ -1,6 +1,6 @@
 {
   "name": "scroll-with-ease",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Scroll an element into view with animation time and cubic bezier easing functions",
   "main": "index.js",
   "scripts": {
